@@ -1,11 +1,11 @@
-# TuMusica
+# Your Music
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 Project that consumes services exposed by Spotify to consult artists and their albums.
 
 
-## Creación de token para uso de los servicios de Spotify
+## Token creation for use of Spotify services
 
 To use Spotify services, a token must be generated as follows:
 	-Create an account on SpotiFyForDevelopers: https://developer.spotify.com/
