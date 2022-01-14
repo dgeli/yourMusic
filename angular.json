@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TuMusica"
+    }
+  },
+  "defaultProject": "TuMusica",
+  "cli": {
+    "analytics": false
+  }
 }
